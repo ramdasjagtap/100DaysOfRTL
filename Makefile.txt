@@ -1,3 +1,0 @@
-##Design and verify the 2:1 mux
-
-It should have two 8 bit inputs.
