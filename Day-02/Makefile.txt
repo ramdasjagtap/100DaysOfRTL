@@ -1,0 +1,9 @@
+##Design  and verify the differnt types of D-Flip Flop
+
+
+input  clk,
+input  reset,
+input    D_i,         -> D input to the flop
+output   Q_norst_o,   -> Q output from non-resettable flop
+output   Q_syncrst_o, -> Q output from flop using synchronous reset
+output   Q_asyncrst_o -> Q output from flop using asynchrnoous reset
