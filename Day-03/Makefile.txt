@@ -1,1 +1,3 @@
 Day 03
+
+Design and Verify the Rising edge and Falling edge detectors without using FSM.
