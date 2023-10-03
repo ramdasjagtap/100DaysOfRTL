@@ -1,0 +1,17 @@
+Design and verify the 8 bit ALU.
+
+inputs ....
+input [7:0]A;
+input [7:0]B;
+input [2:0]opcode;
+output [7:0]out
+
+ALU should perform following operations- 
+1) 3'b000: ADD (+)
+2) 3'b001: SUB (-)
+3) 3'b010: SLL (left shift of input A using input B[2:0] vector )
+4) 3'b011: LSR (right shift of input A using input B[2:0] vector )
+5) 3'b100: AND (logical)
+6) 3'b101: OR (logical)
+7) 3'b110: XOR 
+8) 3'b111: EQL
