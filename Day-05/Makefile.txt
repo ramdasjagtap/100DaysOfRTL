@@ -1,0 +1,6 @@
+Design and verify Odd counter which adds only odd events.
+
+Design constraints-
+input clk;
+input reset;
+output reg[7:0]count;
