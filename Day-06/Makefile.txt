@@ -1,0 +1,7 @@
+Design and verify Simple shift register (serial input and parallel out).
+
+Design constraints- 
+input clk;
+input reset;
+input D;
+output reg [3:0]Q;
