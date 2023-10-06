@@ -1,0 +1,7 @@
+Design and verify Linear Feedback shift register.
+The feedback bit[0] is the XOR of bit[1], bit[3].
+
+Design constraints - 
+input clk;
+input reset;
+output [3:0]LFSR_out;
