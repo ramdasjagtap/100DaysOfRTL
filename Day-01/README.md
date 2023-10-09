@@ -1,4 +1,4 @@
-#DAY=01
+# DAY=01
 Design and verify the 2:1 mux.
 
 ## Interface Definition-
