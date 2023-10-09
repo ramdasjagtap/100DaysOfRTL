@@ -1,4 +1,4 @@
-## Design and verify counter which suppourts loading value.
+## Design and verify a counter which supports loading value.
 
 ## Counter should reset to 0.
 ## The module should have the following interface:
