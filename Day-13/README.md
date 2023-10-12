@@ -5,8 +5,8 @@ Design and verify the 2:1 mux which has following constraints-
 |Ternary Operator|
 |Case statement|
 |If else block|
-|Combinatorial For loop|
-|And-or tree|
+|For loop|
+|AND- OR gate|
 
 ## Interface Definition -
 The module should have following interface -
