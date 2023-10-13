@@ -4,7 +4,8 @@ Design and verify parameterized fixed priory arbiter.
 ## Interface Definitition - 
 - Output should produced in single cycle.
 - The module should have following interface:-
-  ```verilog
+  
+```verilog
 module Priori_arbiter
 #(parameter PORTS =4)(
  input [PORTS-1:0]request,
