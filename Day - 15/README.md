@@ -2,9 +2,10 @@
 Design and verify the 4-bit round robin arbiter.
 
 ## Interface Definition - 
--Output should be produced in single cycle.
--Output must be one-hot.
--The module should have following interface:-
+- Output should be produced in a single cycle
+- Output must be one-hot
+- The module should have the following interface:
+
 
 ```verilog
 module Round_robin(
